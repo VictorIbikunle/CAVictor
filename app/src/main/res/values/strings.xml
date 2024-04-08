@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VicAssignment</string>
+    <string name="login" />
+    <string name="email" />
+    <string name="password" />
+    <string name="click_to_register" />
+</resources>

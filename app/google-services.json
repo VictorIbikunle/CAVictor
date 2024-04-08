@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862279277328",
+    "project_id": "cavictor-bdc8b",
+    "storage_bucket": "cavictor-bdc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862279277328:android:47376e6083038e41fe2395",
+        "android_client_info": {
+          "package_name": "com.example.vicassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnSx2hTVeDQCLlXmSXabe2Xcd6njxXteU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
